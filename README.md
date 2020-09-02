@@ -14,8 +14,8 @@ Research Interests:
 
 Research Experience: 
 
-- **2015-2019 Bronze Age Off-Tell Archaeology (BAKOTA) Project**: Archaeological research project investigating Bronze Age social dynamics and structures in the Körös Rivers region in SE Hungary. My work on the project has included QGIS mapping of metal distributions, tracing and hypothesizing of trade routes, statistical analyses, and examinations of the possible social implications of metal ownership. [Project Website](http://bakota.net/)
-- **2018-2019 Genetic analysis (RNASeq) of of New World Screwworm, _Cochliomyia hominivorax_**: Bioinformatics research into the functions of genes at different life stages of _C. hominivorax_, with implications for targets for control of this pest. 
+- **2015-2019 Bronze Age Off-Tell Archaeology (BAKOTA) Project**:<br/> Archaeological research project investigating Bronze Age social dynamics and structures in the Körös Rivers region in SE Hungary.<br/> My work on the project has included QGIS mapping of metal distributions, tracing and hypothesizing of trade routes, statistical analyses, and examinations of the possible social implications of metal ownership.<br/> [Project Website](http://bakota.net/)
+- **2018-2019 Genetic analysis (RNASeq) of of New World Screwworm, _Cochliomyia hominivorax_**:<br/> Bioinformatics research into the functions of genes at different life stages of _C. hominivorax_, with implications for targets for control of this pest. 
 
 ```
 
