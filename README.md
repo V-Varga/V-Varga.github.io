@@ -9,8 +9,8 @@ Current MSc student in Bioinformatics at Lund University, Lund, Sweden. Complete
 ```markdown
 Research Interests: 
 
-- Bioinformatics: 
-- Archaeology: 
+- Bioinformatics: genetics of parasite-host interactions
+- Archaeology: archaeolmetallurgy of SE Europe (Neolithic - Bronze Age), connections between trade routes and the movement of people
 
 Research Experience: 
 
@@ -22,4 +22,5 @@ Research Experience:
 ### Contact:
 
 [Email](vi2505va-s@student.lu.se)
+
 [LinkedIn](https://www.linkedin.com/in/virag-varga/)
