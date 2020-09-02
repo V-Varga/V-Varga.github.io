@@ -1,29 +1,22 @@
-## Welcome to GitHub Pages
+## GitHub Page for Virág Varga, Bioinformatics MSc student
 
-You can use the [editor on GitHub](https://github.com/V-Varga/V-Varga.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Brief Introduction:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Current MSc student in Bioinformatics at Lund University, Lund, Sweden. Completed BSc in Biological Sciences and BA in Archaeology (Social Complexity) at the University of Cincinnati, Cincinnati, OH, USA. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research: 
 
 ```markdown
-Syntax highlighted code block
+Research Interests: 
 
-# Header 1
-## Header 2
-### Header 3
+- Bioinformatics: 
+- Archaeology: 
 
-- Bulleted
-- List
+Research Experience: 
 
-1. Numbered
-2. List
+- **2015-2019 Bronze Age Off-Tell Archaeology (BAKOTA) Project**: Archaeological research project investigating Bronze Age social dynamics and structures in the Körös Rivers region in SE Hungary. My work on the project has included QGIS mapping of metal distributions, tracing and hypothesizing of trade routes, statistical analyses, and examinations of the possible social implications of metal ownership. 
+- **2018-2019 Genetic analysis (RNASeq) of of New World Screwworm, _Cochliomyia hominivorax_**: Bioinformatics research into the functions of genes at different life stages of _C. hominivorax_, with implications for targets for control of this pest. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
