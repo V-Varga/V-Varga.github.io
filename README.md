@@ -6,7 +6,7 @@ Current MSc student in Bioinformatics at Lund University, Lund, Sweden. Complete
 
 ## Resume
 
-<a href="https://github.com/V-Varga/V-Varga.github.io/blob/master/ProfileContent/V_Varga_resume_GitHub.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/V-Varga/V-Varga.github.io/blob/master/ProfileContent/V_Varga_resume_GitHub.pdf" target="_blank">Current CV</a>
 
 ## Research: 
 
