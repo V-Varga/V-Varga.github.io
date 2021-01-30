@@ -1,10 +1,14 @@
-## GitHub Page for Virág Varga, Bioinformatics MSc student
+# GitHub Page for Virág Varga, Bioinformatics MSc student
 
-### Brief Introduction:
+## Brief Introduction:
 
 Current MSc student in Bioinformatics at Lund University, Lund, Sweden. Completed BSc in Biological Sciences and BA in Archaeology (Social Complexity) at the University of Cincinnati, Cincinnati, OH, USA. 
 
-### Research: 
+## Resume
+
+![Current CV](https://github.com/V-Varga/V-Varga.github.io/blob/master/ProfileContent/V_Varga_resume_GitHub.pdf)
+
+## Research: 
 
 ```markdown
 Research Interests: 
@@ -19,7 +23,7 @@ Research Experience:
 
 ```
 
-### Contact:
+## Contact:
 
 [Email](vi2505va-s@student.lu.se)
 
