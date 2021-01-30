@@ -4,7 +4,7 @@
 
 Current MSc student in Bioinformatics at Lund University, Lund, Sweden. Completed BSc in Biological Sciences and BA in Archaeology (Social Complexity) at the University of Cincinnati, Cincinnati, OH, USA. 
 
-## Resume
+## Current CV
 
 <a href="https://github.com/V-Varga/V-Varga.github.io/blob/master/ProfileContent/V_Varga_resume_GitHub.pdf" target="_blank">Current CV</a>
 
